@@ -1,0 +1,26 @@
+Version=1.21.11.1
+mods\Chunky-Fabric-1.4.55.jar
+mods\cloth-config-21.11.153-fabric.jar
+mods\debugify-1.21.11+1.0.jar
+mods\fabric-api-0.141.3+1.21.11.jar
+mods\ferritecore-8.2.0-fabric.jar
+mods\iris-fabric-1.10.6+mc1.21.11.jar
+mods\krypton-0.2.10.jar
+mods\lambdynamiclights-4.9.1+1.21.11.jar
+mods\litematica-fabric-1.21.11-0.26.1.jar
+mods\lithium-fabric-0.21.4+mc1.21.11.jar
+mods\malilib-fabric-1.21.11-0.27.7.jar
+mods\modmenu-17.0.0-beta.2.jar
+mods\modmenu-badges-lib-2026.2.1.jar
+mods\shulkerboxtooltip-fabric-5.2.15+1.21.11.jar
+mods\sodium-fabric-0.8.6+mc1.21.11.jar
+mods\ViaBackwards-5.7.2.jar
+mods\ViaFabric-0.4.21+139-1.14-1.21.jar
+mods\ViaRewind-4.0.15.jar
+mods\vmp-fabric-mc1.21.11-0.2.0+beta.7.227-all.jar
+mods\voxy-0.2.11-alpha.jar
+mods\xaerominimap-fabric-1.21.11-25.3.10.jar
+mods\yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar
+resourcepacks\Default-Dark-Mode-1.21.11-2026.2.0.zip
+resourcepacks\Faithful 32x - 1.21.11.zip
+shaderpacks\ComplementaryReimagined_r5.7.1.zip
